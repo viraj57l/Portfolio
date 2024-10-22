@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="26px" viewBox="0 0 32 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header-2-copy-7" transform="translate(-44.000000, -61.000000)" fill-rule="nonzero">
+            <g id="header-2">
+                <g id="header">
+                    <g id="V." transform="translate(44.448000, 61.800000)">
+                        
+                        <path d="M16 24L7 0H10.5L16 13L21.5 0H25L16 24Z" id="V" fill="#282642"></path>
+                       
+                        <path d="M31.42,25.2 C31.684,25.2 31.9,25.11 32.068,24.93 C32.236,24.75 32.32,24.54 32.32,24.3 L32.32,24.3 L32.32,19.548 C32.32,19.284 32.236,19.062 32.068,18.882 C31.9,18.702 31.684,18.612 31.42,18.612 L31.42,18.612 L26.668,18.612 C26.404,18.612 26.182,18.702 26.002,18.882 C25.822,19.062 25.732,19.284 25.732,19.548 L25.732,19.548 L25.732,24.3 C25.732,24.564 25.822,24.78 26.002,24.948 C26.182,25.116 26.404,25.2 26.668,25.2 L26.668,25.2 L31.42,25.2 Z" id="." fill="#FF4C60"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
